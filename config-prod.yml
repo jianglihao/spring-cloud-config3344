@@ -1,2 +1,2 @@
-server:
-    port: 9968
+config:
+    info: prod 666
