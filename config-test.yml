@@ -1,2 +1,2 @@
-server:
-    port: 9967
+config:
+    info: test 666
